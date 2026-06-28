@@ -1,78 +1,199 @@
 <div align="center">
-  <!-- Futuristic Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Ashraf%20Sherif&fontSize=70&fontAlignY=35&animation=twinkling&desc=Flutter%20Developer&descAlignY=55"/>
 
-  <!-- Dynamic Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=435&lines=Flutter+Development;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-  </a>
-  <br></br>
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Ashraf0Sherif&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Ashraf%20Sherif&fontSize=70&fontAlignY=35&animation=twinkling&desc=Mobile%20Application%20Developer&descAlignY=55"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Mobile+Application+Developer;Android+(Kotlin+%26+Jetpack+Compose);Flutter+Developer;Clean+Architecture+;Always+Learning,+Always+Growing" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ashraf0Sherif&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+
 </div>
 
+---
 
-## 🚀 About Me
+# 👋 Hi, I'm Ashraf Sherif
+
+### Mobile Application Developer
+
+I'm passionate about building scalable, maintainable and high-performance mobile applications across multiple platforms.
+
+- 📱 Android Developer (Kotlin & Jetpack Compose)
+- 🦋 Flutter Developer
+- 🍎 iOS Developer (Swift)
+- 🏛️ Clean Architecture Enthusiast
+- 🚀 Always learning new technologies
+
+---
+
+# 🛠 Tech Stack
+
+<details open>
+<summary><b>📱 Android</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retrofit-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coroutines-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flow-0095D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WorkManager-4CAF50?style=for-the-badge"/>
+
+</details>
+
+---
+
+<details open>
+<summary><b>🦋 Flutter</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bloc-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hive-FFA000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sqflite-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</details>
+
+---
+
+<details open>
+<summary><b>🍎 iOS</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Core_Data-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge"/>
+
+</details>
+
+---
+
+<details open>
+<summary><b>🏛 Architecture</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVI-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design_Patterns-9C27B0?style=for-the-badge"/>
+
+</details>
+
+---
+
+<details open>
+<summary><b>🏛 Architecture & Design Patterns</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVI-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVP-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIPER-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design_Patterns-3F51B5?style=for-the-badge"/>
+
+</details>
+
+---
+
+# 🎯 Current Focus
 
 <div align="center">
-  <h3>Flutter Developer</h3>
-  <p>Passionate about building scalable mobile applications</p>
+
+| 🚀 Learning |
+|-------------|
+| Android Development |
+| Jetpack Compose |
+| Flutter |
+| Swift & SwiftUI |
+| Clean Architecture |
+| Mobile Performance |
+
 </div>
 
-## 🛠️ Tech Arsenal
+---
+
+# 📱 Platforms
 
 <div align="center">
-  <details open>
-    <summary><b>Mobile</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bloc-%231E88E5.svg?style=for-the-badge&logo=bloc&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RESTful_APIs-%23000000.svg?style=for-the-badge&logo=api&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Hive-%23FFA000.svg?style=for-the-badge&logo=hive&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SharedPreferences-%234CAF50.svg?style=for-the-badge&logo=android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase_Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flutter_Web-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-  </details>
 
-  <details open>
-    <summary><b>DevOps & Cloud</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Fastlane-%23FF007F.svg?style=for-the-badge&logo=fastlane&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase_App_Distribution-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
-  </details>
+| Android | Flutter | iOS |
+|:-------:|:-------:|:---:|
+| Kotlin | Dart | Swift |
+| Jetpack Compose | Bloc | SwiftUI |
+| Room | Firebase | Core Data |
+| Hilt | GetX | RxSwift |
+
 </div>
 
-## 🎯 Current Focus
+---
+
+# 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf0Sherif&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph"/>
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashraf0Sherif&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf0Sherif&theme=radical&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0Sherif&layout=compact&theme=radical&hide_border=true"/>
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Flutter_Development-%2302569B.svg?style=for-the-badge"/>
-      </td>
-    </tr>
-  </table>
+
+<a href="mailto:ashraf.sherif.eg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashraf-sherif-3202aa172/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ashraf0Sherif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://codeforces.com/profile/Ashraf0SH">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
+</a>
+
 </div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf0Sherif&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-
-<!-- GitHub Stats with Animation -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ashraf0Sherif&show_icons=true&theme=radical&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=📊%20Ashraf's%20GitHub%20Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf0Sherif&theme=radical&hide_border=true" width="49%" />
-
-## 📫 Connect With Me
+---
 
 <div align="center">
-  <a href="mailto:shifoashraf75@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashraf-sherif-3202aa172/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+### ⭐ If you like my work, don't forget to star my repositories!
+
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
