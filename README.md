@@ -14,8 +14,6 @@
 
 ---
 
-# 👋 Hi, I'm Ashraf Sherif
-
 ### Mobile Application Developer
 
 I'm passionate about building scalable, maintainable and high-performance mobile applications across multiple platforms.
